@@ -1,8 +1,8 @@
 
-  # Read me ![Githublicense](http://img.shields.io/badge/license-undefined-blue.svg);
+  # madelane ![Githublicense](http://img.shields.io/badge/license-undefined-blue.svg);
 
   ##Description
-  readme-generator;
+  read me generator;
 
   ##Table of Contents
   * [Installation](#installation)
@@ -13,10 +13,10 @@
   * [Questions](#questions)
 
   ##Installation
-  inquirer
+  n/a
 
   ##Usage
-  with node
+  inquirer
 
   ##License
   undefined
